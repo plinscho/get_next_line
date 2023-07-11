@@ -3,7 +3,7 @@
 #include "get_next_line.h"
 #include <stdlib.h>
 #include <stdio.h>
-/*
+
 int main()
 {
 	int		fd;
@@ -18,7 +18,7 @@ int main()
 	}
 	close(fd);
 }
-*/
+
 void	polish_list(t_list **list)
 {
 	t_list	*last_node;
